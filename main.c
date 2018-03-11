@@ -1,4 +1,3 @@
-﻿//Sortowanie metodą Shella i Quicksort
 // Politechnika Świętokrzyska
 // w Kielcach
 // (C)2016  gr. 1ID13B  Mykola Bohdan  Eugeniusz Fedoroszczak
