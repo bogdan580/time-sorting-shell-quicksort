@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1457805754 source:c:\pp2\proekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1460387167 source:c:\asid\proekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<sys/time.h>
+	<string.h>
+
+1464679224 source:c:\codeblocks\proekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<sys/time.h>
+	<string.h>
+
